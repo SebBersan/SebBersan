@@ -7,7 +7,6 @@ Currently, I'm broadening my horizons by diving into the world of **JavaScript**
 - 💻 **Programming Languages**: Proficient in C++ and Python.
 - 🛠️ **Web Development**: Learning JavaScript, HTML, CSS.
 - 🛡️ **IT Security**: Skilled in Network Security, Firewalls, and Encryption.
-- 📊 **Data Engineering**: Knowledge in Data Architecture, Data Pipelines, and Automation.
   
 ### 🎓 Certifications:
 - 🏅 **Cisco Certified** in IT & Network Security.
